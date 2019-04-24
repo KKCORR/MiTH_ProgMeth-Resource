@@ -1,1 +1,4 @@
 ground = 160 * 160
+BreakableBlock = 80 * 80
+BreakableBlock_Breaking = 80 * 80
+UnbreakableBlock = 80 * 80
